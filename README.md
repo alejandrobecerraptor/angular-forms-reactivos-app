@@ -8,7 +8,7 @@ _Aplicacion desarrollada en Angular, formularios reactivos, validaciones,formlar
 ## Demo 🎮
 _Despleegado con gihub pages, y despliegue automatico con scripts (npm run build:github)_
 
-Este es el Demo de la aplicacion, **Update[ 15/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-forms-reactivos-app/)
+Este es el Demo de la aplicacion, **Update[ 17/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-forms-reactivos-app/)
 
 
 ## Comenzando 🚀
